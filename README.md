@@ -5,7 +5,7 @@
 
 ### :woman_technologist: About Me : 
 Hi 👋, I'm Lalithambiga 
-<img align="right" src="https://media.giphy.com/media/TEiaISogqJgrEuocni/giphy.gif" width="200" alt="working"/>
+<img align="right" src="https://media.giphy.com/media/TEiaISogqJgrEuocni/giphy.gif" width="200" height="200" alt="working"/>
 - :seedling: I am currently learning MERN stack.
 - :telescope: I’m currently working on a project to build my career as a full stack developer.
 - :zap: In my free time, I read books and i love to write.
