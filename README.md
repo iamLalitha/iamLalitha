@@ -2,10 +2,6 @@
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-
-<div align="right">
-  <img src="https://media.giphy.com/media/TEiaISogqJgrEuocni/giphy.gif" width="200" height="200"/>
-</div>
 ---
 
 ### :woman_technologist: About Me : 
@@ -13,7 +9,9 @@
 - :telescope: I’m currently working on a project to build my career as a full stack developer.
 - :zap: In my free time, I read books and i love to write.
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Lalitha-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lalitha-ramachandran-9b55941a2/)
-
+<div align="right">
+  <img src="https://media.giphy.com/media/TEiaISogqJgrEuocni/giphy.gif" width="200" height="200"/>
+</div>
 ---
 
 ### :hammer_and_wrench: Languages and Tools : 
