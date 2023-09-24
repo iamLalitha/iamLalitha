@@ -38,7 +38,7 @@ https://glittery-lollipop-2a585f.netlify.app/
   <img src="https://media.giphy.com/media/RfT7W8lXpSSYbXbakl/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/lalitha-ramachandran-9b55941a2/">
+  <a href="https://www.linkedin.com/in/lalithambiga-r-9b55941a2/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
