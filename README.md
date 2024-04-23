@@ -6,12 +6,13 @@
 ### :woman_technologist: About Me : 
 Hi 👋, I'm Lalithambiga 
 <img align="right" src="https://media.giphy.com/media/TEiaISogqJgrEuocni/giphy.gif" width="300"  alt="working"/>
-- :seedling: I am currently learning MERN stack.
-- :telescope: I’m currently working on a project to build my career as a full stack developer.
+- :seedling: I am currently learning frontend development.
+- :telescope: I’m currently working on a project to build my career as a frontend developer.
 - :zap: In my free time, I read books and i love to write.
+- 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Lalitha-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lalithambiga-r-9b55941a2/)
 -  🌐Portfolio:
-https://glittery-lollipop-2a585f.netlify.app/
+https://portfolio-lalitha.netlify.app/
 ---
 
 ### :hammer_and_wrench: Languages and Tools : 
