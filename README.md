@@ -9,7 +9,7 @@ Hi 👋, I'm Lalithambiga
 - :seedling: I am currently learning frontend development.
 - :telescope: I’m currently working on a project to build my career as a frontend developer.
 - :zap: In my free time, I read books and i love to write.
-- 
+- ✍ Here is the link to my medium page: https://medium.com/@lalithasans
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Lalitha-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lalithambiga-r-9b55941a2/)
 -  🌐Portfolio:
 https://portfolio-lalitha.netlify.app/
